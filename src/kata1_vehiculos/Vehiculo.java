@@ -5,8 +5,8 @@ Alumno: Matias Scalella - Tecnicatura Universitaria en Programacion - UTN
 package kata1_vehiculos;
 
 public class Vehiculo {
-    private String marca;
-    private String modelo;
+    protected String marca;
+    protected String modelo;
 
     public Vehiculo(String marca, String modelo) {
         this.marca = marca;

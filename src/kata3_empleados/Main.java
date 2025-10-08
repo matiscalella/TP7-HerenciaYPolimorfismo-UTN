@@ -4,9 +4,7 @@ Kata 3 - Empleados y polimorfismo
 Alumno: Matias Scalella - Tecnicatura Universitaria en Programacion - UTN
 */
 package kata3_empleados;
-
 import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         ArrayList<Empleado> empleados = new ArrayList<>();

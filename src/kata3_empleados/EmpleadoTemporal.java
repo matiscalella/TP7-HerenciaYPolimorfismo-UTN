@@ -5,7 +5,7 @@ Alumno: Matias Scalella - Tecnicatura Universitaria en Programacion - UTN
 */
 package kata3_empleados;
 public class EmpleadoTemporal extends Empleado {
-    private static final double VALOR_HORA = 30000; // Porcentaje extra por trabajo temporal
+    private static final double VALOR_HORA = 30000; 
     private int horasTrabajadas;
 
     public EmpleadoTemporal(String nombre, String legajo, int horasTrabajadas) {

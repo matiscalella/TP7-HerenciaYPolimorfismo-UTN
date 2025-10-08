@@ -18,7 +18,7 @@ public class Main {
             animal.hacerSonido();
             System.out.println("Traduccion: ");
             animal.describirAnimal();
-            System.out.println("");
+            System.out.println("-----------------------------");
         }
     }
 }
